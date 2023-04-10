@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://github.com/mariathmatheus/WeCare/blob/main/img/WeCare.png"> alt="Photo preview">
+<img src="https://github.com/mariathmatheus/WeCare/blob/main/img/WeCare.png" alt="Photo preview">
 </p>
 
 ## ✨ Tecnologias
